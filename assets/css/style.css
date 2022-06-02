@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+.card
+{
+    border: none;
+}
+
+.card-img-top {
+    height: 170px;
+}
+
+.bg-cyan
+{
+    background-color: #0dcaf0;
+}
+
+.nav-black
+{
+    background-color: #000;
+    opacity: 0.9;
+    color: white;
+}
