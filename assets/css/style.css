@@ -37,3 +37,8 @@ body
     opacity: 0.9;
     color: white;
 }
+
+.custom-tooltip
+{
+    --bs-tooltip-bg: var(--bs-secondary);
+}

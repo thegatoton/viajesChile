@@ -1,6 +1,6 @@
 $(function()
 {
-    $('[data-bs-toggle="tooltip"]')
+    $('[data-bs-toggle="tooltip"]').tooltip();
 }
 )
 
